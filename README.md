@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shakyakhushboo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shakyakhushboo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khushbooshakya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushbooshakya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushboo-shakya-440185199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/khushboo-shakya-440185199/" height="30" width="40" /></a>
 <a href="https://fb.com/https://touch.facebook.com/khushboo.shakya.7311?ref=bookmarks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://touch.facebook.com/khushboo.shakya.7311?ref=bookmarks" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/being_awsme_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/being_awsme_/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushbooshakya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushbooshakya" height="30" width="40" /></a>
