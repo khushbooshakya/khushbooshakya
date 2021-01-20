@@ -1,7 +1,19 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Khushboo Shakya</h1>
-<img align="right" alt="GIF" src="https://github.com/khushbooshakya/khushbooshakya/blob/main/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbooshakya&label=Profile%20views&color=0e75b6&style=flat" alt="khushbooshakya" /> </p>
+
+## Who Am I?
+
+I'm currently pursuing B.Tech  in Computer Science and Engineering from Lovely Professional University. My Personality traits: friendly, cooperative, goal-orientated.I have always been fond of computers and especially the algorithms on which it works. I've been obsessed with the idea of using software to solve practical problems. Software engineering is a never ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
+
+Apart from this, my interest is also inclined towards contributing for a sustainable society. I love to work for the betterment of the world. Currently I'm a proud NCC Cadet.
+
+
+- 🔭 I’m currently contributing to some open source.
+- 🌱 I’m currently learning various new technologies.
+- 💬 Ask me about anything, I am happy to help;
+
+<p align="center"> <img src="https://github.com/khushbooshakya/khushbooshakya/blob/main/code.gif?" alt="codegif" /> </p>
 
 - 📫 How to reach me **khushishakya0410@gmail.com**
 
