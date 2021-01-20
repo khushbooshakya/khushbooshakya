@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Khushboo Shakya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbooshakya&label=Profile%20views&color=0e75b6&style=flat" alt="khushbooshakya" /> </p>
 
