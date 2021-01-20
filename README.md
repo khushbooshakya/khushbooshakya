@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/shakyakhushboo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shakyakhushboo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/khushboo-shakya-440185199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushbooshakya" height="30" width="40" /></a>
-<a href="https://fb.com/khushbooshakya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khushbooshakya" height="30" width="40" /></a>
+<a href="https://touch.facebook.com/khushboo.shakya.7311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khushbooshakya" height="30" width="40" /></a>
 <a href="https://instagram.com/being_awsme_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="being_awsme_" height="30" width="40" /></a>
 </p>
 
