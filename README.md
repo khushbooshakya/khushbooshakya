@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Khushboo Shakya</h1>
+<img align="right" alt="GIF" src="https://github.com/khushbooshakya/khushbooshakya/blob/main/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbooshakya&label=Profile%20views&color=0e75b6&style=flat" alt="khushbooshakya" /> </p>
 
 - 📫 How to reach me **khushishakya0410@gmail.com**
